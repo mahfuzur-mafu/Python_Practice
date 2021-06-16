@@ -22,8 +22,6 @@ def call_convert(rlabel1, inputn):
  return
 
 
-
-
 #label data entry
 
 
